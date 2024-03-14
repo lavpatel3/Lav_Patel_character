@@ -1,2 +1,31 @@
-# Lav_Patel_character
+# Character
 This is the repo which we created in class to demonstrate the homework assignment.
+
+## Installation
+
+TODO: Describe the installation process
+
+# Usage
+
+TODO: Write usage instructions
+
+## Contributing
+
+1. Fork it!
+2. Create your feature branch: 'git checkout -b my-new-feature
+3. Commit your changes: git commit -am 'add imgs'
+4. Push to the branch: git push origin my new folders
+5. Submit a pull request :D
+
+## History
+
+TODO: Theives story
+
+## Credits
+
+Lav Patel
+
+## License
+
+
+MIT - See license file for more information.
